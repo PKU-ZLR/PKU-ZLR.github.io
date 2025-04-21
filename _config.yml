@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liren Zhu's Homepage"
+title                    : "Liren Zhu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "PKU-ZLR/PKU-ZLR.github.io"
 author:
   # Biographic information
   avatar           : "ZLR.png"
-  name             : "Liren Zhu"
+  name             : "Liren Zhu 朱立人"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. student at PKU"
   location         : "Beijing, China"
   employer         : "Peking University"
   #uri              : "zhuliren@pku.edu.cn"
