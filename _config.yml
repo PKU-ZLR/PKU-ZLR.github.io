@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
   employer         : "Peking University"
-  uri              : # URL
+  #uri              : "zhuliren@pku.edu.cn"
   email            : "zhuliren@pku.edu.cn" 
 
   # Academic websites
