@@ -8,17 +8,12 @@ author_profile: true
 \* denotes equal contribution
 -->
 
-**Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning** \
-Yonghao Zou, Jia-Ju Bai, Zu-Ming Jiang, Ming Zhao, and <ins> Diyu Zhou </ins> \
-Network and Distributed System Security Symposium  (NDSS '25) \
-<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/distfuzz-ndss25.pdf)
-
-
 **Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications** \
-Liren Zhu, Liujia Li, Jianyu Wu, Yiming Yao, Zhan Shi, Jie Zhang, Zhenlin Wang, Xiaolin Wang, Yingwei Luo, and <ins> Diyu Zhou </ins> \
+<ins>Liren Zhu</ins>, Liujia Li, Jianyu Wu, Yiming Yao, Zhan Shi, Jie Zhang, Zhenlin Wang, Xiaolin Wang, Yingwei Luo, and Diyu Zhou \
 31st International Symposium on High-Performance Computer Architecture (HPCA '25) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/pivot-hpca25.pdf)
 &nbsp; <i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/Pivot) 
+&nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/rrc-atc22.pptx)
 
 
 **Practical Verification of System-Software Components Written in Standard C** \
@@ -89,25 +84,12 @@ Ph.D. Thesis \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/nilicon-ipdps20.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/nilicon-ipdps20.pptx)
 
-**PUSh: Data Race Detection Based on Hardware-Supported Prevention of Unintended Sharing** \
-<ins>Diyu Zhou</ins> and Yuval Tamir \
-ACM/IEEE 52nd Annual Symposium on Microarchitecture (MICRO '19) \
-<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/push-micro19.pdf) 
-&nbsp; <i class="fab fa-youtube"></i> [lightning talk](https://www.youtube.com/watch?v=O-V7_GvdpW8)
-&nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/push-micro19.pptx)
-
-**Fast Hypervisor Recovery Without Reboot** \
-<ins>Diyu Zhou</ins> and Yuval Tamir \
-48th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN '18)\
-<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/nilihype-dsn18.pdf) 
-&nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/nilihype-dsn18.pptx)
+//**PUSh: Data Race Detection Based on Hardware-Supported Prevention of Unintended Sharing** \
+//<ins>Diyu Zhou</ins> and Yuval Tamir \
+//ACM/IEEE 52nd Annual Symposium on Microarchitecture (MICRO '19) \
+//<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/push-micro19.pdf) 
+//&nbsp; <i class="fab fa-youtube"></i> [lightning talk](https://www.youtube.com/watch?v=O-V7_GvdpW8)
+//&nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/push-micro19.pptx)
 
 
-
-
-<!---
-**Application-Informed Kernel Synchronization Primitives** \
-Sujin Park*, <ins>Diyu Zhou*</ins>, Yuchen Qian, Irina Calciu, Taesoo Kim, Sanidhya Kashyap \
-OSDI 2022: 16th USENIX Symposium on Operating Systems Design and Implementation 
--->
 
