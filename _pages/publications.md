@@ -17,7 +17,7 @@ author_profile: true
 
 
 **Dual-Output LUT Merging during FPGA Technology Mapping** \
-Feng Wang, <ins> Liren Zhu<\ins>, Jiaxi Zhang, Lei Li, Yang Zhang, and Guojie Luo \
+Feng Wang, <ins> Liren Zhu </ins>, Jiaxi Zhang, Lei Li, Yang Zhang, and Guojie Luo \
 39th International Conference On Computer-Aided Design (ICCAD '20) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/iccad-20.pdf)
 
