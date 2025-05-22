@@ -11,7 +11,4 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Research
 ======
-My research is in the general area of computer systems. I am specifically 
-interested in operating systems, storage systems, formal verification, 
-dependable computing, concurrency, software/hardware co-design, and recently 
-systems for machine learning.
+My research focuses on HW/SW co-design for modern cloud computing and data center systems. I am particularly interested in resource allocation strategies, task scheduling methodologies, and shared resource partitioning techniques in data centers.
