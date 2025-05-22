@@ -2,7 +2,7 @@
 title: "TA for Algorithm Analysis and Complexity Theory"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2022-spring-teaching
+permalink: /teaching/TA for Algorithm Analysis and Complexity Theory
 venue: "Peking University, School of Computer Science"
 date: 2022-01-01
 location: "Peking"
