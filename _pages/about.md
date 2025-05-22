@@ -11,4 +11,4 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Research
 ======
-My research focuses on HW/SW co-design for modern cloud computing and data center systems. I am particularly interested in resource allocation strategies, task scheduling methodologies, and shared resource partitioning techniques in data centers.
+My research focuses on HW/SW co-design tailored for modern cloud computing and data center systems. I am particularly interested in resource allocation strategies, task scheduling methodologies, and shared resource partitioning techniques in data centers.
