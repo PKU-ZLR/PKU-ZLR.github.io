@@ -13,4 +13,6 @@ I became a member of the [TELOS](https://telos-syslab.github.io/) system lab in 
 
 Research
 ======
-My research focuses on HW/SW co-design tailored for modern cloud computing and data center systems. I am particularly interested in resource allocation strategies, task scheduling methodologies, and shared resource partitioning techniques in data centers.
+My research interests lie primarily in the fields of Operating Systems, Program Analysis and Hardware in general. My currently research focuses on static analysis for  resource allocation strategies, task scheduling methodologies, and shared resource partitioning techniques in data centers.
+
+Drop me an email if you’d like to chat!
