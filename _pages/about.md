@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm) at [Peking University](https://english.pku.edu.cn/).
 
-I became a member of the [TELOS](https://telos-syslab.github.io/) system lab in September 2021, advised by Prof. [Xiaolin Wang](https://cs.pku.edu.cn/info/1083/1703.htm). Before coming to TELOS, I received my B.S. in computer science from [Peking University](https://www.pku.edu.cn/) in 2021.
+I became a member of the [TELOS](https://telos-syslab.github.io/) system lab in September 2021, advised by Prof. [Xiaolin Wang](https://cs.pku.edu.cn/info/1083/1703.htm), Prof. [Yingwei Luo](https://cs.pku.edu.cn/info/1071/1684.htm), and Prof. [Diyu Zhou](https://zhou-diyu.github.io/). Before coming to TELOS, I received my B.S. in computer science from [Peking University](https://www.pku.edu.cn/) in 2021.
 
 Research
 ======
