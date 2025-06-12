@@ -18,7 +18,7 @@ author_profile: true
 **EKRM: Efficient Key-Value Retrieval Method to Reduce Data Lookup Overhead for Redis** \
 Yiming Yao, Xiaolin Wang, Diyu Zhou, Liujia Li, Jianyu Wu, <ins>Liren Zhu</ins>, Zhenlin Wang, and Yingwei Luo \
 30th International European Conference on Parallel and Distributed Computing (Euro-Par '24) \
-<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/EURO-PAR24.pdf)
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/Euro-PAR24.pdf)
 
 **Dual-Output LUT Merging during FPGA Technology Mapping** \
 Feng Wang, <ins>Liren Zhu</ins>, Jiaxi Zhang, Lei Li, Yang Zhang, and Guojie Luo \
