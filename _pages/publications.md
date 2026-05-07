@@ -15,6 +15,9 @@ author_profile: true
 &nbsp; <i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/Pivot) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/Pivot-HPCA25.pptx)
 
+**Cachence: Fine-Grained Cache Partitioning in Both Time and Space** \
+Liujia Li, Yuanlong Li, Yiming Yao, Jianyu Wu, Yi Fan, Jinhao Guo, <ins>Liren Zhu</ins>, Jie Zhang, Xiaolin Wang, Yingwei Luo, Zhenlin Wang, Diyu Zhou (DAC '26) \
+
 **EKRM: Efficient Key-Value Retrieval Method to Reduce Data Lookup Overhead for Redis** \
 Yiming Yao, Xiaolin Wang, Diyu Zhou, Liujia Li, Jianyu Wu, <ins>Liren Zhu</ins>, Zhenlin Wang, and Yingwei Luo \
 30th International European Conference on Parallel and Distributed Computing (Euro-Par '24) \
